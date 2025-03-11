@@ -1,0 +1,17 @@
+{
+  "name": "traffic-protection",
+  "version": "1.0.0",
+  "description": "무효 트래픽 방지 스크립트",
+  "main": "traffic-protection.min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facemartin/traffic-protection.git"
+  },
+  "keywords": [
+    "traffic",
+    "protection",
+    "security"
+  ],
+  "author": "facemartin",
+  "license": "MIT"
+}
